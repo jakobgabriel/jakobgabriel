@@ -1,8 +1,16 @@
-### Hi there 👋
+## Hi there :wave:
 
 ...
 
 
+## :thinking: I’m looking for help with ...
+- building Python Scripts and Pipelines for Data Processing and Engineering
+
+
+## About me 
+
+### :smile: Pronouns
+he / him 
 
 ### :mailbox_with_mail: How to reach me?
 - [Contact Me](https://jakobgabriel.github.io/resume-curriculum-vitae-jakob-gabriel/contact-me/)
@@ -13,7 +21,6 @@
 ### :page_facing_up: Personal Resume
 - [Resume - English](https://jakobgabriel.github.io/resume-curriculum-vitae-jakob-gabriel/resume-english)
 - [Lebenslauf - Deutsch](https://jakobgabriel.github.io/resume-curriculum-vitae-jakob-gabriel/lebenslauf-deutsch)
-
 
 ### :octocat: GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jakobgabriel&theme=material&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
