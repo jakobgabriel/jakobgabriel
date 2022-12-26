@@ -22,13 +22,13 @@
 
 | Title   | Link   |
 |-----------------------------------|-----------------------------------|
-| Contact Form  | [Contact Me](https://jakobgabriel.github.io/resume-curriculum-vitae-jakob-gabriel/contact-me/)  |
+| Contact Form  | [Contact Me](https://jakobgabriel.github.io/blog-resume-jakob-gabriel/contact-me/)  |
 | LinkedIn  | [LinkedIn](https://www.linkedin.com/in/jakob-gabriel/)  |
 | XING  | [XING](https://www.xing.com/profile/Jakob_Gabriel4)  |
 
 ### :page_facing_up: Personal Resume
-- [Resume - English](https://jakobgabriel.github.io/resume-curriculum-vitae-jakob-gabriel/resume-english)
-- [Lebenslauf - Deutsch](https://jakobgabriel.github.io/resume-curriculum-vitae-jakob-gabriel/lebenslauf-deutsch)
+- [Resume - English](https://jakobgabriel.github.io/blog-resume-jakob-gabriel/resume-english)
+- [Lebenslauf - Deutsch](https://jakobgabriel.github.io/blog-resume-jakob-gabriel/lebenslauf-deutsch)
 
 ### :octocat: GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jakobgabriel&theme=material&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
