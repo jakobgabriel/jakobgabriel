@@ -18,14 +18,13 @@
 
 ## About me 
 
-### :smile: Pronouns
-he / him 
-
 ### :mailbox_with_mail: How to reach me?
-- [Contact Me](https://jakobgabriel.github.io/resume-curriculum-vitae-jakob-gabriel/contact-me/)
-- [LinkedIn](https://www.linkedin.com/in/jakob-gabriel/) 
-- [XING](https://www.xing.com/profile/Jakob_Gabriel4)
-- [GitHub](https://github.com/jakobgabriel)
+
+| Title   | Link   |
+|-----------------------------------|-----------------------------------|
+| Contact Form  | [Contact Me](https://jakobgabriel.github.io/resume-curriculum-vitae-jakob-gabriel/contact-me/)  |
+| LinkedIn  | [LinkedIn](https://www.linkedin.com/in/jakob-gabriel/)  |
+| XING  | [XING](https://www.xing.com/profile/Jakob_Gabriel4)  |
 
 ### :page_facing_up: Personal Resume
 - [Resume - English](https://jakobgabriel.github.io/resume-curriculum-vitae-jakob-gabriel/resume-english)
