@@ -3,7 +3,16 @@
 ...
 
 
-## :thinking: I’m looking for help with ...
+## Key Facts
+
+### :telescope:	I’m currently working on ...
+- my resume to refine and implement more features 
+- some smaller home automation topics with NodeRED
+
+### :seedling: I’m currently learning / enhancing...
+- my python skills 
+
+### :thinking: I’m looking for help with ...
 - building Python Scripts and Pipelines for Data Processing and Engineering
 
 
